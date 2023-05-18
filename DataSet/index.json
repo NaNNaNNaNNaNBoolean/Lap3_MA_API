@@ -4,21 +4,21 @@
         "name": "Elephunk",
         "ReleaseDate": "24/06/2003",
         "songs": [
-            {"id":1, "song": "Hands Up"},
-            {"id":2,"song": "Labor Day (It's a Holiday)"},
-            {"id":3,"song": "Let's Get _______"},
-            {"id":4,"song": "Hey Mama"},
-            {"id":5,"song": "Shut Up"},
-            {"id":6,"song": "Smells Like Funk"},
-            {"id":7, "song": "Latin Girls"},
-            {"id":8, "song": "Sexy"},
-            {"id":9, "song": "Fly Away"},
-            {"id":10,"song": "The Boogie That Be"},
-            {"id":11,"song": "The Apl Song"},
-            {"id":12, "song": "Anxiety – with Papa Roach"},
-            {"id":13, "song": "Where Is The Love? – featuring Justin Timberlake"},
-            {"id":14, "song": "Let’s Get It Started"}
-        ]
+                    {"id":1, "song": "Hands Up"},
+                    {"id":2,"song": "Labor Day (It's a Holiday)"},
+                    {"id":3,"song": "Let's Get _______"},
+                    {"id":4,"song": "Hey Mama"},
+                    {"id":5,"song": "Shut Up"},
+                    {"id":6,"song": "Smells Like Funk"},
+                    {"id":7, "song": "Latin Girls"},
+                    {"id":8, "song": "Sexy"},
+                    {"id":9, "song": "Fly Away"},
+                    {"id":10,"song": "The Boogie That Be"},
+                    {"id":11,"song": "The Apl Song"},
+                    {"id":12, "song": "Anxiety - with Papa Roach"},
+                    {"id":13, "song": "Where Is The Love? - featuring Justin Timberlake"},
+                    {"id":14, "song": "Let's Get It Started"}
+                ]
     },
     {   
         "id":2,
@@ -26,20 +26,20 @@
         "ReleaseDate": "07/06/2005",
         "songs": [
             {"id":1, "song": "Pump It"},
-            {"id":2, "song": "Don’t Phunk with My Heart"},
-            {"id":3, "song": "My Style – featuring Justin Timberlake and Timbaland"},
-            {"id":4, "song": "Don’t Lie"},
+            {"id":2, "song": "Don't Phunk with My Heart"},
+            {"id":3, "song": "My Style - featuring Justin Timberlake and Timbaland"},
+            {"id":4, "song": "Don't Lie"},
             {"id":5, "song": "My Humps"},
-            {"id":6,"song": "Like That – featuring Q-Tip, Talib Kweli, CeeLo Green and John Legend"},
+            {"id":6,"song": "Like That - featuring Q-Tip, Talib Kweli, CeeLo Green and John Legend"},
             {"id":7, "song": "Dum Diddly - featuring Dante Santiago"},
             {"id":8, "song": "Feel It"},
-            {"id":9, "song": "Gone Going – featuring Jack Johnson"},
-            {"id":10, "song": "They Don’t Want Music – featuring James Brown"},
+            {"id":9, "song": "Gone Going - featuring Jack Johnson"},
+            {"id":10, "song": "They Don't Want Music - featuring James Brown"},
             {"id":11, "song": "Disco Club"},
             {"id":12, "song": "Bebot"},
             {"id":13, "song": "Ba Bump"},
             {"id":14, "song": "Audio Delite At Low Fidelity"},
-            {"id":15, "song": "Union – featuring Sting"}
+            {"id":15, "song": "Union - featuring Sting"}
         ]
     },
     {   
